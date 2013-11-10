@@ -1,3 +1,3 @@
 <?php 
-echo "aaaa"
+echo "day la file w"
 ?>
